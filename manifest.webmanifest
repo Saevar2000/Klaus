@@ -13,8 +13,8 @@
     "params": {
       "files": [
         {
-          "name": "image",
-          "accept": "image/*"
+          "name": "file",
+          "accept": ["image/*"]
         }
       ]
     }

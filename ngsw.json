@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612178900728,
+  "timestamp": 1612179220253,
   "index": "/Klaus/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/Klaus/favicon.ico",
         "/Klaus/index.html",
-        "/Klaus/main.7fe8dafc622ddf46dabc.js",
+        "/Klaus/main.353f5fba044bbf6a6d5f.js",
         "/Klaus/manifest.webmanifest",
         "/Klaus/my-service-worker.js",
         "/Klaus/polyfills.6abdde2583a2e01a2350.js",
@@ -53,9 +53,9 @@
     "/Klaus/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/Klaus/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/Klaus/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/Klaus/index.html": "e2aaba2753ecc88abbdb9991c1400457efd68ff6",
-    "/Klaus/main.7fe8dafc622ddf46dabc.js": "267eb6aa35efd405447fc85c2bf556f76fcd49f8",
-    "/Klaus/manifest.webmanifest": "a22aac3bbc046cbab0358230ec5b7c94536863ce",
+    "/Klaus/index.html": "e61c5e95fa7344b836244b7d3d23aba8986cd957",
+    "/Klaus/main.353f5fba044bbf6a6d5f.js": "f6a17910fe2eb643c4eed10f9460fc0d534beb17",
+    "/Klaus/manifest.webmanifest": "a573b3ca49475f41e786581479687f77cc0200c4",
     "/Klaus/my-service-worker.js": "b8c53ae069e74bacbe43310fc7984d73ccf8e9b0",
     "/Klaus/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/Klaus/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
