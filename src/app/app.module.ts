@@ -7,6 +7,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { SharePhotoComponent } from './components/share-photo/share-photo.component';
 import { HomeComponent } from './components/home/home.component';
+import { NetbokhaldApiService } from './services/netbokhald-api.service';
 
 @NgModule({
   declarations: [
@@ -17,11 +18,9 @@ import { HomeComponent } from './components/home/home.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ServiceWorkerModule.register('my-service-worker.js', { 
-      enabled: environment.production
-    })
+    ServiceWorkerModule.register('my-service-worker.js', { enabled: environment.production })
   ],
-  providers: [],
+  providers: [NetbokhaldApiService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

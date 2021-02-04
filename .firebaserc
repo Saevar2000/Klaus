@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "klaus-1337": {
+      "hosting": {
+        "Klaus": [
+          "klaus-1337"
+        ]
+      }
+    }
+  }
+}

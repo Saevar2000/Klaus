@@ -1,1 +1,6 @@
 <p>share-photo works!</p>
+
+<p>success: {{success}}</p>
+<ng-container *ngIf="success">
+    <img [src]="image" width="200">
+</ng-container>
