@@ -5,9 +5,9 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://saevar2000.github.io/Klaus/",
+  "start_url": "./",
   "share_target": {
-    "action": "https://saevar2000.github.io/Klaus/share-photo",
+    "action": "/share-photo",
     "method": "POST",
     "enctype": "multipart/form-data",
     "params": {
