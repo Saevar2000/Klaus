@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612179874593,
+  "timestamp": 1612444258360,
   "index": "/Klaus/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/Klaus/favicon.ico",
         "/Klaus/index.html",
-        "/Klaus/main.57057b64f85bf0224840.js",
+        "/Klaus/main.c1786e4cf6f63e0b2b1e.js",
         "/Klaus/manifest.webmanifest",
         "/Klaus/my-service-worker.js",
         "/Klaus/polyfills.6abdde2583a2e01a2350.js",
@@ -53,10 +53,10 @@
     "/Klaus/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/Klaus/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/Klaus/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/Klaus/index.html": "3713c04cefb050ca180db618fbe0a7c317028b1b",
-    "/Klaus/main.57057b64f85bf0224840.js": "39319d234553e327993f48ef35f21b47e8305e54",
-    "/Klaus/manifest.webmanifest": "4f1aa86044b0cd581cdc745df96dd9c0aa148739",
-    "/Klaus/my-service-worker.js": "b8c53ae069e74bacbe43310fc7984d73ccf8e9b0",
+    "/Klaus/index.html": "d3cbc09feb6afa7307ddb8b0c09cfeee1d82a138",
+    "/Klaus/main.c1786e4cf6f63e0b2b1e.js": "ed7837654c788892eea3e3874973975994424ae6",
+    "/Klaus/manifest.webmanifest": "a573b3ca49475f41e786581479687f77cc0200c4",
+    "/Klaus/my-service-worker.js": "add5dd0d6a002b8c73d9c83836ba3b8ea3cdbe17",
     "/Klaus/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/Klaus/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/Klaus/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
