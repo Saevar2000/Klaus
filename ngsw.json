@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612444258360,
+  "timestamp": 1612444718194,
   "index": "/Klaus/index.html",
   "assetGroups": [
     {
@@ -55,7 +55,7 @@
     "/Klaus/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/Klaus/index.html": "d3cbc09feb6afa7307ddb8b0c09cfeee1d82a138",
     "/Klaus/main.c1786e4cf6f63e0b2b1e.js": "ed7837654c788892eea3e3874973975994424ae6",
-    "/Klaus/manifest.webmanifest": "a573b3ca49475f41e786581479687f77cc0200c4",
+    "/Klaus/manifest.webmanifest": "b62300562c2a0a62307d94b0110092a7b02ea77c",
     "/Klaus/my-service-worker.js": "add5dd0d6a002b8c73d9c83836ba3b8ea3cdbe17",
     "/Klaus/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/Klaus/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
